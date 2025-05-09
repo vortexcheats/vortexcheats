@@ -15,9 +15,9 @@ Come and join! [discord.gg/vortexcheats](https://discord.gg/vortexcheats)
 ## 📊 GitHub Stats:
 ![Skepta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vortexcheats&show_icons=true&theme=dracula)
 - Total Stars Earned: 0
-- Total Commits in 2025: 0 (Update as you go)
-- Total PRs: 0 (Update as you go)
-- Contributed to (last year): 0 (Update as you go)
+- Total Commits in 2025: 30 
+- Total PRs: 2
+- Contributed to last year: 0 
 
 - **Total Contributions:** 0 (Update as you go)
 - **Current Streak:** 0 days
