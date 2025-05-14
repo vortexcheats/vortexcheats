@@ -1,7 +1,6 @@
 # 💫 About Me:
 My name is Skepta  
 I am a learning developer  
-I am currently making a Discord bot for accounts  
 Come and join! [discord.gg/vortexcheats](https://discord.gg/vortexcheats)
 
 ## 🌐 Socials:
